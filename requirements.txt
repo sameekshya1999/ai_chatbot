@@ -1,0 +1,9 @@
+
+torch==2.4.1
+transformers==4.38.2
+datasets==2.18.0
+sentence-transformers==2.6.1
+
+numpy==1.26.4
+huggingface_hub==0.22.2
+regex==2024.5.15
